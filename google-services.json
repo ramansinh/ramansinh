@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714083541797",
+    "firebase_url": "https://helo-india-3e201.firebaseio.com",
+    "project_id": "helo-india-3e201",
+    "storage_bucket": "helo-india-3e201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714083541797:android:ba4faf488b7b2f572630cc",
+        "android_client_info": {
+          "package_name": "com.ramansinh.heloindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714083541797-gi4opgiepgh11qm3uolupotv2t7d11od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramansinh.heloindia",
+            "certificate_hash": "73803c72a00e3a44a9d971c681d744c12cccdd69"
+          }
+        },
+        {
+          "client_id": "714083541797-vjsbo9jmas46knpv84d5hjqe08qfdd64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjWJUE2EPpqJ4V4RF-lBkgkvRhPBNM3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714083541797-vjsbo9jmas46knpv84d5hjqe08qfdd64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
